@@ -1,1 +1,0 @@
-# fsd-git-public-algorithms

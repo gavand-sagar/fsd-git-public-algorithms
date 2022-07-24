@@ -1,4 +1,0 @@
-display welcome
- start
-   display welcome
-   end 
