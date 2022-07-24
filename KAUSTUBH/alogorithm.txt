@@ -1,0 +1,4 @@
+display greetings
+step 1)start
+step2)welocome 
+ step3)end
