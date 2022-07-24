@@ -1,0 +1,5 @@
+display greeting
+Step 1 start
+step 2 " Welcome "
+Step 3" display Welcome"
+Step 4 End
