@@ -1,0 +1,4 @@
+display greetings
+ 1: start 
+ 2: welcome
+ 3: end

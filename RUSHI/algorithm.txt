@@ -1,0 +1,3 @@
+STEP 1 : START
+STEP 2 : DISPLAY "welcome"
+STEP 3 ; END
