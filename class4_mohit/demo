@@ -1,0 +1,6 @@
+start 
+get x=10
+get y=10
+set result=x+y
+display result
+end
