@@ -1,0 +1,6 @@
+start 
+Read x      // it will input number from user
+Read y
+set result=x+y
+display result
+end
